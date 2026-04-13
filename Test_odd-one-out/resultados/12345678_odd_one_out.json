@@ -1,0 +1,130 @@
+{
+  "id_paciente": "12345678",
+  "fecha": "2026-04-13T14:29:08.596146",
+  "total_items": 15,
+  "respuestas_correctas": 13,
+  "porcentaje": 86,
+  "tiempo_promedio_ms": 2863,
+  "respuestas": [
+    {
+      "item_id": 8,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 1,
+      "correcto": true,
+      "tiempo_ms": 2926
+    },
+    {
+      "item_id": 12,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 3,
+      "correcto": true,
+      "tiempo_ms": 3216
+    },
+    {
+      "item_id": 0,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 0,
+      "correcto": true,
+      "tiempo_ms": 2600
+    },
+    {
+      "item_id": 2,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 0,
+      "correcto": true,
+      "tiempo_ms": 3525
+    },
+    {
+      "item_id": 4,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 2,
+      "correcto": true,
+      "tiempo_ms": 2428
+    },
+    {
+      "item_id": 3,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 3,
+      "correcto": true,
+      "tiempo_ms": 3396
+    },
+    {
+      "item_id": 7,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 3,
+      "correcto": true,
+      "tiempo_ms": 2565
+    },
+    {
+      "item_id": 10,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 3,
+      "correcto": true,
+      "tiempo_ms": 2876
+    },
+    {
+      "item_id": 11,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 2,
+      "correcto": true,
+      "tiempo_ms": 2265
+    },
+    {
+      "item_id": 5,
+      "intruso_real": 3,
+      "imagen_elegida": 0,
+      "posicion_elegida": 1,
+      "correcto": false,
+      "tiempo_ms": 2280
+    },
+    {
+      "item_id": 9,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 1,
+      "correcto": true,
+      "tiempo_ms": 2102
+    },
+    {
+      "item_id": 6,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 2,
+      "correcto": true,
+      "tiempo_ms": 2345
+    },
+    {
+      "item_id": 1,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 1,
+      "correcto": true,
+      "tiempo_ms": 2313
+    },
+    {
+      "item_id": 13,
+      "intruso_real": 3,
+      "imagen_elegida": 1,
+      "posicion_elegida": 3,
+      "correcto": false,
+      "tiempo_ms": 4630
+    },
+    {
+      "item_id": 14,
+      "intruso_real": 3,
+      "imagen_elegida": 3,
+      "posicion_elegida": 3,
+      "correcto": true,
+      "tiempo_ms": 3488
+    }
+  ]
+}

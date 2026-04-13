@@ -1,0 +1,27 @@
+[
+    {
+        "id_paciente": "12345678",
+        "fecha": "2026-04-11 00:46:49",
+        "módulo": "cognición y lenguaje",
+        "test": "stroop",
+        "edad": 79,
+        "resultados": {
+            "palabra": [
+                107,
+                "NORMAL"
+            ],
+            "color": [
+                77,
+                "NORMAL"
+            ],
+            "palabra-color": [
+                80,
+                "ALTO"
+            ],
+            "índice interferencia": [
+                35.22,
+                "ALTO"
+            ]
+        }
+    }
+]

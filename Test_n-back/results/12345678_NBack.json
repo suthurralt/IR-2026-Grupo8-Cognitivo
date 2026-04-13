@@ -1,0 +1,12 @@
+[
+    {
+        "fecha": "2026-04-13 14:42:52",
+        "id_paciente": "12345678",
+        "edad": "79",
+        "n_back": 1,
+        "aciertos": 9,
+        "errores": 0,
+        "precision_pct": 100.0,
+        "tiempo_promedio_seg": 0.735
+    }
+]
