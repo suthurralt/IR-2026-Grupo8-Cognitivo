@@ -77,16 +77,24 @@ python3 Frontend.py
 IR-2026-Grupo8-Cognitivo/
 │
 ├── Frontend.py               # Punto de entrada — login y menú principal
-├── stroop_main.py            # Test de Stroop
-├── N_Back.py                 # Test N-Back
-├── tmt.py                    # Trail Making Test (TMT-A y TMT-B)
-├── Test_odd-one-out/
-│   └── odd_one_out.py        # Test Odd-One-Out
+├── Test_odd-one-out/         
+|   ├── assets/
+|   ├── resultados/
+|   ├── generate_stimuli.py
+|   └── odd_one_out.py       # Test Odd-One-Out     
+|
+├── Test_n-back
+|   ├── results/
+|   └── N_Back.py             # Test N-Back
+|
+├── Test_secuencia
+|   ├── resultados/
+|   └── tmt.py                # Trail Making Test (TMT-A y TMT-B)
 │
-├── resources_stroop/
-│   ├── correcto.wav
-│   ├── incorrecto.wav
-│   └── timer.wav
+├── Test_stroop/
+│   ├── resources_stroop/
+│   ├── results/
+│   └── stroop_main.py        # Test de Stroop
 │
 ├── pacientes.csv             # Registro de pacientes
 ├── requirements.txt
